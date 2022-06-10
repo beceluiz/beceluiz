@@ -8,7 +8,7 @@
 ### About Me:
 - I'm doing a degree in Computer Systems Analyst 
 - I'm currently learning front-end development with javascript.
-- I'm pretending to became a web3 developer in the future.
+- I'm pretending to became a fullstack developer in the soon.
 - I love basketball and the NBA, so i'll make some fun projects arround it probably.
 
 ### Language & Tools:
