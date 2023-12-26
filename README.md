@@ -6,9 +6,9 @@
 </div>
 
 ### About Me:
-- Undergraduate in Systems Development and Analysis.
-- Currently learning front-end development with React.
-- Aiming to become a full-stack developer soon.
+- Graduated in Systems Development and Analysis.
+- Currently learning Back-end development with Java
+- Aiming to become a Back-end developer soon.
 
 ### Language & Tools:
 <div>
